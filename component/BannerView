@@ -1,0 +1,4 @@
+import {requireNativeComponent} from 'react-native';
+
+const BannerView = requireNativeComponent('BannerView', null);
+export default BannerView;
